@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IndianExpress.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>6</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>57E326D00126DAAE85891BB7B86E9A44DE90E956</string>
+				<key>dateExpires</key>
+				<string>13/04/27</string>
+				<key>type</key>
+				<string>Cloud Managed iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>57E326D00126DAAE85891BB7B86E9A44DE90E956</string>
+						<key>dateExpires</key>
+						<string>13/04/27</string>
+						<key>type</key>
+						<string>Cloud Managed iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Razorpay.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3CZ927GM68</string>
+						<key>name</key>
+						<string>THE INDIAN EXPRESS PRIVATE LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.3.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3CZ927GM68.com.indian.express.tiedn</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3CZ927GM68</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>IndianExpress.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>fb159957-83aa-45f4-9334-9d37df31f9b6</string>
+				<key>dateExpires</key>
+				<string>24/03/26</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.indian.express.tiedn</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3CZ927GM68</string>
+				<key>name</key>
+				<string>THE INDIAN EXPRESS PRIVATE LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
