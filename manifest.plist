@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://www.dropbox.com/scl/fi/6k9bbi6by0l5pckcmv4e8/IndianExpress.ipa?rlkey=d0z2c5gjsfo1e25se6mgvkg1x&st=88v6y62c&dl=1</string>
+            <string>https://ios-app-download.vercel.app/IndianExpress.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
